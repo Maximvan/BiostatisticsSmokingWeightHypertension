@@ -1,5 +1,5 @@
 # Biostatistics Project 1: Investigating the Impact of Smoking and Weight on Hypertension
-The project, which was a group work, was performed in a shared Google Colab notebook using R. Subsequently, it was transformed to an Rmarkdown and finally to a HTML file.
+The Impact of Smoking and Weight on Hypertension was investigated as part of the Biostatistics course at Ghent University The project, which was a group work, was performed in a shared Google Colab notebook using R. Subsequently, it was transformed to an Rmarkdown and finally to a HTML file.
 
 ## Introduction
 A comprehensive analysis was conducted to investigate the impact of smoking and weight on hypertension by evaluating the systolic blood pressure of 500 individuals. The study involved observational units, exploring the relationship between systolic blood pressure, smoking status, and weight categories through statistical tests.
